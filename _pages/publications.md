@@ -1,31 +1,31 @@
 ---
-permalink: /publications
+permalink: /academics
 title: "Academics"
 author_profile: true
 redirect_from: 
-  - /publications/
-  - /publications.html
+  - /academics/
+  - /academics.html
 ---
 
 ### Publications
 
-[Exploiting Freely-Available Auxiliary Tasks for 6D Object Pose Estimation](#)
+[**Exploiting Freely-Available Auxiliary Tasks for 6D Object Pose Estimation**](#)
 **T. Zhang**, M. Salzmann, Y. Hu, K. Yu
 Under review
 
-[Understanding the variance collapse of SVGD in high dimensions](https://openreview.net/pdf?id=Qycd9j5Qp9J)
+[**Understanding the variance collapse of SVGD in high dimensions**](https://openreview.net/pdf?id=Qycd9j5Qp9J)
 J. Ba, M. Erdogdu, M. Ghassemi, S. Sun, T. Suzuki, D. Wu, **T. Zhang** (*Alphabetical Order*)
 The International Conference on Learning Representations (ICLR 2021)
 
-[Generalization of Two-Layer Neural Networks: An Asymptotic View](https://openreview.net/pdf?id=H1gBsgBYwH)
+[**Generalization of Two-Layer Neural Networks: An Asymptotic View**](https://openreview.net/pdf?id=H1gBsgBYwH)
 J. Ba, M. Erdogdu, T. Suzuki, D. Wu, **T. Zhang** (*Alphabetical Order*)
 The International Conference on Learning Representations (ICLR 2020 **Spotlight**)
 
-[Towards Characterizing the High-dimensional Bias of Kernel-based Particle Inference Algorithms](https://openreview.net/pdf?id=Byg9KJn4Fr)
+[**Towards Characterizing the High-dimensional Bias of Kernel-based Particle Inference Algorithms**](https://openreview.net/pdf?id=Byg9KJn4Fr)
 J. Ba, M. Erdogdu, S.Sun, T. Suzuki, D. Wu, **T. Zhang** (*Alphabetical Order*)
 Advances in Approximate Bayesian Inference 2019, **Spotlight**
 
-[Non-asymptotic Comparison of SVRG and SGD: Tradeoffs Between Compute and Speed](#)
+[**Non-asymptotic Comparison of SVRG and SGD: Tradeoffs Between Compute and Speed**](#)
 J. Ba, M. Erdogdu, Q. Zhang, **T. Zhang** (*Alphabetical Order*)
 ArXiv Preprint
 
