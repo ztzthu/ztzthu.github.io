@@ -9,27 +9,30 @@ redirect_from:
 
 ## Publications
 
-[**Exploiting Freely-Available Auxiliary Tasks for 6D Object Pose Estimation**](#) \\
-**T. Zhang**, Y. Hu, K. Yu, M. Salzmann \\
+[**Exploiting Freely-Available Auxiliary Tasks for 6D Object Pose Estimation**](#) \
+**T. Zhang**, Y. Hu, K. Yu, M. Salzmann \
 Under review
 
-[**Understanding the variance collapse of SVGD in high dimensions**](https://openreview.net/pdf?id=Qycd9j5Qp9J) \\
-J. Ba, M. Erdogdu, M. Ghassemi, S. Sun, T. Suzuki, D. Wu, **T. Zhang** (*Alphabetical Order*) \\
+[**Understanding the variance collapse of SVGD in high dimensions**](https://openreview.net/pdf?id=Qycd9j5Qp9J) \
+J. Ba, M. Erdogdu, M. Ghassemi, S. Sun, T. Suzuki, D. Wu, **T. Zhang** (*Alphabetical Order*) \
 The International Conference on Learning Representations (ICLR 2021)
 
-[**Generalization of Two-Layer Neural Networks: An Asymptotic View**](https://openreview.net/pdf?id=H1gBsgBYwH) \\
-J. Ba, M. Erdogdu, T. Suzuki, D. Wu, **T. Zhang** (*Alphabetical Order*) \\
+[**Generalization of Two-Layer Neural Networks: An Asymptotic View**](https://openreview.net/pdf?id=H1gBsgBYwH) \
+J. Ba, M. Erdogdu, T. Suzuki, D. Wu, **T. Zhang** (*Alphabetical Order*) \
 The International Conference on Learning Representations (ICLR 2020), **Spotlight**
 
-[**Towards Characterizing the High-dimensional Bias of Kernel-based Particle Inference Algorithms**](https://openreview.net/pdf?id=Byg9KJn4Fr) \\
-J. Ba, M. Erdogdu, S.Sun, T. Suzuki, D. Wu, **T. Zhang** (*Alphabetical Order*) \\
+[**Towards Characterizing the High-dimensional Bias of Kernel-based Particle Inference Algorithms**](https://openreview.net/pdf?id=Byg9KJn4Fr) \
+J. Ba, M. Erdogdu, S.Sun, T. Suzuki, D. Wu, **T. Zhang** (*Alphabetical Order*) \
 Advances in Approximate Bayesian Inference 2019, **Spotlight**
 
-[**Non-asymptotic Comparison of SVRG and SGD: Tradeoffs Between Compute and Speed**](#) \\
-J. Ba, M. Erdogdu, Q. Zhang, **T. Zhang** (*Alphabetical Order*) \\
+[**Non-asymptotic Comparison of SVRG and SGD: Tradeoffs Between Compute and Speed**](#) \
+J. Ba, M. Erdogdu, Q. Zhang, **T. Zhang** (*Alphabetical Order*) \
 ArXiv Preprint
 
-## Teaching
+<br />
+<br />
+
+## Service
 
 I am teaching the following courses at EPFL:
 
@@ -39,9 +42,7 @@ I am teaching the following courses at EPFL:
 - Undergraduate courses
   - CS-233, [**Introduction to Machine Learning**](https://edu.epfl.ch/coursebook/fr/introduction-to-machine-learning-CS-233) by Mathieu Salzmann and Pascal Fua
 
-## Service
-
-I am reviewing for top-tier machine learning conferences including ICLR, ICML, NeurIPS, CVPR and ICCV.
+I am also a reviewer for top-tier machine learning conferences including ICLR, ICML, NeurIPS, CVPR and ICCV.
 
 
 
