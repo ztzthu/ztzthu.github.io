@@ -33,13 +33,15 @@ ArXiv Preprint
 
 I am teaching the following courses at EPFL:
 
-- CS-433, Machine Learning (graduate course) by Martin Jaggi and Nicolas Flammarion
-- CS-401, Applied Data Analysis (graduate course) by Bob West
-- CS-233, Introduction to Machine Learning (undergrad course) by Mathieu Salzmann and Pascal Fua
+- Graduate courses
+  - CS-433, **Machine Learning by Martin** Jaggi and Nicolas Flammarion
+  - CS-401, **Applied Data Analysis** by Bob West
+- Undergraduate courses
+  - CS-233, **Introduction to Machine Learning** by Mathieu Salzmann and Pascal Fua
 
 ## Service
 
-I am a reviewer of ICLR, ICML, NeurIPS, CVPR and ICCV.
+I am reviewing for top-tier machine learning conferences including ICLR, ICML, NeurIPS, CVPR and ICCV.
 
 
 
