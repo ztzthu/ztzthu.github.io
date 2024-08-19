@@ -34,10 +34,10 @@ ArXiv Preprint
 I am teaching the following courses at EPFL:
 
 - Graduate courses
-  - CS-433, **Machine Learning by Martin** Jaggi and Nicolas Flammarion
-  - CS-401, **Applied Data Analysis** by Bob West
+  - CS-433, [**Machine Learning**](https://www.epfl.ch/labs/mlo/machine-learning-cs-433-2021/) by Martin Jaggi and Nicolas Flammarion
+  - CS-401, [**Applied Data Analysis**](https://epfl-ada.github.io/teaching/fall2023/cs401/) by Bob West
 - Undergraduate courses
-  - CS-233, **Introduction to Machine Learning** by Mathieu Salzmann and Pascal Fua
+  - CS-233, [**Introduction to Machine Learning**](https://edu.epfl.ch/coursebook/fr/introduction-to-machine-learning-CS-233) by Mathieu Salzmann and Pascal Fua
 
 ## Service
 
