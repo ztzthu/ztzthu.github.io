@@ -22,13 +22,14 @@ repository               : "ztzthu/ztzthu.github.io"
 author:
   # Biographic information
   avatar           : "avatar.jpeg"
+  avatar2          : "avatar2.jpg"
   name             : "Tianzong (Terry) Zhang"
   pronouns         : # example: "she/her"  
   bio              : "--"
   location         : "Lausanne, Switzerland"
   # employer         : "EPFL"
   uri              : # URL
-  email            : "tianzong.zhang@epfl.ch" 
+  email            : "ztzepfl@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

@@ -18,8 +18,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Fun"
-    url: /fun/
+  - title: "Misc"
+    url: /misc/
         
   - title: "Blog Posts"
     url: /year-archive/
