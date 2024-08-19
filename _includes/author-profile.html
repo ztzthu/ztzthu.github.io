@@ -5,7 +5,7 @@
     <div class="author__avatar">
         {% if author.avatar contains "://" %}
         <img src="{{ author.avatar }}" alt="{{ author.name }}"> {% else %}
-        <img src="/images/{{ author.avatar}}" class="author__avatar" alt="{{ author.name }}" onmouseover="this.src='/images/{{ author.avatar2}}'"> {% endif %}
+        <img src="/images/{{ author.avatar}}" class="author__avatar" alt="{{ author.name }}" onmouseover="this.src='/images/{{ author.avatar2}}'" onmouseout="this.src='/images/{{ author.avatar}}'"> {% endif %}
     </div>
 
     <div class="author__content">
