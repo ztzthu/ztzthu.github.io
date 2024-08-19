@@ -13,7 +13,7 @@ redirect_from:
 
 - [My research interest](https://ztzthu.github.io/academics/) lies in machine learning and computer vision, in paticular 3D computer vision (pose estimation, point cloud registration, SLAM). I also work on the mathematical foundations of machine learning theory.
 
-- Check out the fun facts of me - that you might not know - [here](https://ztzthu.github.io/fun/) !
+- Check out the fun facts of me that you might not know [here](https://ztzthu.github.io/misc/) !
 
 - Email: ztzepfl (at) gmail.com
 
