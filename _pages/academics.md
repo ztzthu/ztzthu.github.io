@@ -1,5 +1,5 @@
 ---
-permalink: /academics
+permalink: /academics/
 title: "Academics"
 author_profile: false
 redirect_from: 
