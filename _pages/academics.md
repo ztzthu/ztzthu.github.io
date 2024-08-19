@@ -22,7 +22,7 @@ J. Ba, M. Erdogdu, T. Suzuki, D. Wu, **T. Zhang** (*Alphabetical Order*) \\
 The International Conference on Learning Representations (ICLR 2020), **Spotlight**
 
 [**Towards Characterizing the High-dimensional Bias of Kernel-based Particle Inference Algorithms**](https://openreview.net/pdf?id=Byg9KJn4Fr) \\
-J. Ba, M. Erdogdu, S.Sun, T. Suzuki, D. Wu, **T. Zhang** (*Alphabetical Order*) \\ 
+J. Ba, M. Erdogdu, S.Sun, T. Suzuki, D. Wu, **T. Zhang** (*Alphabetical Order*) \\
 Advances in Approximate Bayesian Inference 2019, **Spotlight**
 
 [**Non-asymptotic Comparison of SVRG and SGD: Tradeoffs Between Compute and Speed**](#) \\
