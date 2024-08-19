@@ -3,7 +3,7 @@ permalink: /academics
 title: "Academics"
 author_profile: false
 redirect_from: 
-  - /academics/
+  # - /academics/
   - /academics.html
 ---
 
