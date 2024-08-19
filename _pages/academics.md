@@ -10,7 +10,7 @@ redirect_from:
 ## Publications
 
 [**Exploiting Freely-Available Auxiliary Tasks for 6D Object Pose Estimation**](#) \\
-**T. Zhang**, M. Salzmann, Y. Hu, K. Yu \\
+**T. Zhang**, Y. Hu, K. Yu, M. Salzmann \\
 Under review
 
 [**Understanding the variance collapse of SVGD in high dimensions**](https://openreview.net/pdf?id=Qycd9j5Qp9J) \\
@@ -19,15 +19,29 @@ The International Conference on Learning Representations (ICLR 2021)
 
 [**Generalization of Two-Layer Neural Networks: An Asymptotic View**](https://openreview.net/pdf?id=H1gBsgBYwH) \\
 J. Ba, M. Erdogdu, T. Suzuki, D. Wu, **T. Zhang** (*Alphabetical Order*) \\
-The International Conference on Learning Representations (ICLR 2020 **Spotlight**)
+The International Conference on Learning Representations (ICLR 2020), **Spotlight**
 
 [**Towards Characterizing the High-dimensional Bias of Kernel-based Particle Inference Algorithms**](https://openreview.net/pdf?id=Byg9KJn4Fr) \\
-J. Ba, M. Erdogdu, S.Sun, T. Suzuki, D. Wu, **T. Zhang** (*Alphabetical Order*)\\ 
+J. Ba, M. Erdogdu, S.Sun, T. Suzuki, D. Wu, **T. Zhang** (*Alphabetical Order*) \\ 
 Advances in Approximate Bayesian Inference 2019, **Spotlight**
 
 [**Non-asymptotic Comparison of SVRG and SGD: Tradeoffs Between Compute and Speed**](#) \\
 J. Ba, M. Erdogdu, Q. Zhang, **T. Zhang** (*Alphabetical Order*) \\
 ArXiv Preprint
+
+## Teaching
+
+I am teaching the following courses at EPFL:
+
+- CS-433, Machine Learning (graduate course) by Martin Jaggi and Nicolas Flammarion
+- CS-401, Applied Data Analysis (graduate course) by Bob West
+- CS-233, Introduction to Machine Learning (undergrad course) by Mathieu Salzmann and Pascal Fua
+
+## Service
+
+I am a reviewer of ICLR, ICML, NeurIPS, CVPR and ICCV.
+
+
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
