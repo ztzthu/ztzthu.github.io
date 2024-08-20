@@ -11,7 +11,7 @@ I have a blog (in Chinese) that mostly records my adventures. The blog is only a
 
 See some random posts about
 - [a trip to Norway](https://mp.weixin.qq.com/s/Kc2PqQMSfLcBp7u8LG3IQg), or
-- [a boat trip on ~~the Geneva Lake~~ le Léman](https://mp.weixin.qq.com/s/gxtjvIpS1LCRdMwH_eg6tQ), or
+- [a boat trip on ~~the Geneva Lake~~ Le Léman](https://mp.weixin.qq.com/s/gxtjvIpS1LCRdMwH_eg6tQ), or
 - [the fun courses that I took during my bachelors](https://mp.weixin.qq.com/s/X_J98sBSTE7f4bHBKZcTCg).
 
 微信公众号：纵新社

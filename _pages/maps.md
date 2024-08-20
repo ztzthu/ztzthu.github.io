@@ -7,7 +7,9 @@
 I have created a lot of maps, just for fun.
 
 ## [**The Interactive When-to-go-Where Map**](#)
-The Interactive When-to-go-Where Map leverages [the CTU TS monthly climate data](https://www.nature.com/articles/s41597-020-0453-3) to help you find the best place to travel for a given month, or find the best month to travel for a given place. Personal use at the moment, with a plan to expand into a business.
+The Interactive When-to-go-Where Map leverages [the CTU TS monthly climate data](https://www.nature.com/articles/s41597-020-0453-3) to help you find the most comfortable place to travel for a given month, or find the most comfortable month to travel for a given place. 
+
+Personal use at the moment, with a plan to expand into a business.
 
 Stack: Python, leaflet.js, D3.js, OpenLayers
 
