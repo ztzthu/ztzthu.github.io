@@ -19,7 +19,7 @@ main:
   #   url: /teaching/    
   - title: "Projects"
     url: /projects/
-      
+
   - title: "Misc"
     url: /misc/
         
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   #   url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

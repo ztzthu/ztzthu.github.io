@@ -13,7 +13,7 @@ redirect_from:
 **T. Zhang**, Y. Hu, K. Yu, M. Salzmann \
 Under review
 
-[**Understanding the variance collapse of SVGD in high dimensions**](https://openreview.net/pdf?id=Qycd9j5Qp9J) \
+[**Understanding the Variance Collapse of SVGD in High Dimensions**](https://openreview.net/pdf?id=Qycd9j5Qp9J) \
 J. Ba, M. Erdogdu, M. Ghassemi, S. Sun, T. Suzuki, D. Wu, **T. Zhang** (*Alphabetical Order*) \
 The International Conference on Learning Representations (ICLR 2021)
 
