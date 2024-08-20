@@ -11,7 +11,7 @@ The Interactive When-to-go-Where Map leverages [the CTU TS monthly climate data]
 
 Personal use at the moment, with a plan to expand into a business.
 
-Stack: Python, leaflet.js, D3.js, OpenLayers
+Stack: Python, leaflet.js, D3.js, OpenLayers (in progess), PostGIS (in progess)
 
 <img src="/images/maps/when-to-go-where-map.jpeg" alt="The When-to-Go-Where Map" style="width:100%;max-width:600px;margin-left:auto;margin-right: auto;"/>
 
