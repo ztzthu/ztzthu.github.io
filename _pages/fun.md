@@ -14,6 +14,6 @@
 - I love taking challenges and pushing myself to the boundaries. Some of the highlights include:
   - In 2021 I shredded [my first 360 flat spin on skis](https://www.youtube.com/watch?v=CnyKjsWoEqM) in the very first ski season of my life.
   - In 2022 I travelled to the Northenmost point of Europe by public trasport all the way from Switzerland ([travelogue in Chinese](https://mp.weixin.qq.com/s/Kc2PqQMSfLcBp7u8LG3IQg)).
-  - In 2023 I pedalled around Iceland in 14 days on my road bike, before venturing into an active volcano on the Reykjanes Penisula.
+  - In 2023 I pedalled around Iceland [in 14 days on my road bike](https://ztzthu.github.io/maps/#iceland), before venturing into an active volcano on the Reykjanes Penisula.
 
 - In the spare time I make maps as a hobby. Check out some of my maps [here](https://ztzthu.github.io/maps/) !

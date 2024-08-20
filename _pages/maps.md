@@ -11,7 +11,7 @@ The Interactive When-To-Go-Where Map leverages [CTU TS monthly climate data](htt
 
 Stack: Python, leaflet.js, D3.js, OpenLayers
 
-<img src="images/maps/when-to-go-where-map.jpeg" alt="The When-to-Go-Where Map" style="width:100%;max-width:600px;margin-left:auto;margin-right: auto;"/>
+<img src="../images/maps/when-to-go-where-map.jpeg" alt="The When-to-Go-Where Map" style="width:100%;max-width:600px;margin-left:auto;margin-right: auto;"/>
 
 <br />
 
@@ -20,21 +20,21 @@ Stack: Python, leaflet.js, D3.js, OpenLayers
 I create static maps for every trips that I have done. See my [personal blog (in Chinese)](https://mp.weixin.qq.com/s/Kc2PqQMSfLcBp7u8LG3IQg) for more maps.
 
 Trips include:
-- Bikepacking in Iceland
+- Bikepacking in Iceland <a name="iceland"></a>
 - Crossing the Sahara by Public Transport
 - Travel to Northernmost Point of Europe by Public Transport
 
 <br/>
 
-<img src="images/maps/iceland.jpg" alt="Bikepacking in Iceland 2022" style="width:100%;max-width:600px;margin-left:auto;margin-right: auto;"/>
+<img src="../images/maps/iceland.jpg" alt="Bikepacking in Iceland 2022" style="width:100%;max-width:600px;margin-left:auto;margin-right: auto;"/>
 
 <br/>
 
-<img src="images/maps/africa.png" alt="West Africa by Public Transport 2022" style="width:100%;max-width:450px;margin-left:auto;margin-right: auto;"/>
+<img src="../images/maps/africa.png" alt="West Africa by Public Transport 2022" style="width:100%;max-width:450px;margin-left:auto;margin-right: auto;"/>
 
 <br/>
 
-<img src="images/maps/norway-2024.png" alt="Hiking in North Norway 2024" style="width:100%;max-width:450px;margin-left:auto;margin-right: auto;"/>
+<img src="../images/maps/norway-2024.png" alt="Hiking in North Norway 2024" style="width:100%;max-width:450px;margin-left:auto;margin-right: auto;"/>
 
 ## [**Maps for course project**](https://com-480-data-visualization.github.io/datavis-project-2022-datagang/src/)
 
