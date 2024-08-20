@@ -6,7 +6,7 @@
 
 I have created a lot of maps, just for fun.
 
-## [**The Interactive When-to-go-Where Map**](/when-to-go-where)
+## [**The Interactive When-to-go-Where Map**](/when-to-go-where-map/)
 The Interactive When-to-go-Where Map leverages [the CTU TS monthly climate data](https://www.nature.com/articles/s41597-020-0453-3) to help you find the most comfortable place to travel for a given month, or find the most comfortable month to travel for a given place. 
 
 Personal use at the moment, with a plan to expand into a business.
