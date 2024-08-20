@@ -1,6 +1,6 @@
 --- 
     permalink: /maps/ 
-    title: "Maps that I created (for fun)" 
+    title: "Maps that I have created (for fun)" 
     author_profile: true 
 ---
 

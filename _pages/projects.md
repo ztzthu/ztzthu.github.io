@@ -16,3 +16,4 @@
 - **DevOp**: Docker, Kubernetes, AWS, Git, CUDA.
 - **GIS**: QGIS, ArcGIS, Leaflet.js, OpenLayers, PostGIS.
 - **Others**: Microsoft Office (Word, PPT, Excel), Power BI.
+- **Languages**: Chinese Mandarin (Native), English (C2), French (B1), Russian (A2)
