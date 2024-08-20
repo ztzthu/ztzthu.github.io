@@ -17,14 +17,14 @@ Stack: Python, leaflet.js, D3.js, OpenLayers (in progess), PostGIS (in progess)
 
 <br />
 
-## [**Plenty of Static Maps**](#)
+## [**Plenty of Static Maps**](#iceland)
 
 I create static maps for every trips that I have done. See my [personal blog (in Chinese)](/year-archive/) for more maps.
 
-Examples here include:
+Examples here include maps of me...
 - Bikepacking in Iceland <a name="iceland"></a>
 - Crossing the Sahara by public transport
-- Travel to northernmost point of Europe by public transport
+- Traveling to northernmost point of Europe by public transport
 
 Stack: QGIS, Overpass API
 
