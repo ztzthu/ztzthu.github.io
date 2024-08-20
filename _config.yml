@@ -26,7 +26,7 @@ author:
   avatar3          : "avatar3.jpg"
   name             : "Tianzong (Terry) Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "I take challenges. Hover over my profile picture for a surprise !"
+  bio              : "I take challenges.\ Hover over my profile picture for a surprise !"
   location         : "Lausanne, Switzerland"
   # employer         : "EPFL"
   uri              : # URL

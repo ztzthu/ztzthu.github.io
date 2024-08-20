@@ -30,11 +30,11 @@ Stack: QGIS, Overpass API
 
 <img src="/images/maps/iceland.jpg" alt="Bikepacking in Iceland 2022" style="width:100%;max-width:600px;margin-left:auto;margin-right: auto;"/>
 
-<br/>
+<!-- <br/> -->
 
 <img src="/images/maps/africa.png" alt="West Africa by Public Transport 2022" style="width:100%;max-width:450px;margin-left:auto;margin-right: auto;"/>
 
-<br/>
+<!-- <br/> -->
 
 <img src="/images/maps/norway-2024.png" alt="Hiking in North Norway 2024" style="width:100%;max-width:450px;margin-left:auto;margin-right: auto;"/>
 
