@@ -8,7 +8,7 @@
 
 - I was born in Shanghai, China in 1999. My name in Chinese is 张 天 纵, which literally translates to "*globetrotter*".
 
-- I participated competitive science olympiad games during my high school. \
+- I participated in competitive science olympiad games during my high school. \
   I was a [gold medalist for the 2016 International Chemisty Olympiad (IChO)](http://www.icho-official.org/results/results.php?id=48&year=2016), and won two silver medals for both Chinese Maths & Physics Competition.
 
 - I love taking challenges and pushing myself to the boundaries. Some of the highlights include:
@@ -16,4 +16,4 @@
   - In 2022 I travelled to the Northenmost point of Europe by public trasport all the way from Switzerland.
   - In 2023 I pedalled around Iceland in 14 days on my road bike, before venturing into an active volcano on the Reykjanes Penisula.
 
-- In the spare time I make maps as a hobby. Check out some of my maps here !
+- In the spare time I make maps as a hobby. Check out some of my maps [here](https://ztzthu.github.io/maps/) !

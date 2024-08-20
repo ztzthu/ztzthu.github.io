@@ -9,7 +9,7 @@ redirect_from:
 
 ## Publications
 
-[**Exploiting Freely-Available Auxiliary Tasks for 6D Object Pose Estimation**](#) \
+[**AuxiLight: A Fast, Lightweight Auxiliary Loss Balancing Algorithm with Application in Object 6D Pose Estimation**](#) \
 **T. Zhang**, Y. Hu, K. Yu, M. Salzmann \
 Under review
 
@@ -30,7 +30,6 @@ J. Ba, M. Erdogdu, Q. Zhang, **T. Zhang** (*Alphabetical Order*) \
 ArXiv Preprint
 
 <br />
-<br />
 
 ## Service
 
@@ -42,7 +41,7 @@ I am teaching the following courses at EPFL:
 - Undergraduate courses
   - [**CS-233, Introduction to Machine Learning**](https://edu.epfl.ch/coursebook/fr/introduction-to-machine-learning-CS-233) by Mathieu Salzmann and Pascal Fua
 
-I am also a reviewer for top-tier machine learning conferences including ICLR, ICML, NeurIPS, CVPR and ICCV.
+I am also a reviewor for machine learning conferences including ICLR, ICML, NeurIPS, CVPR and ICCV.
 
 
 
