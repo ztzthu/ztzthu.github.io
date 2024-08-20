@@ -41,7 +41,7 @@ I am teaching the following courses at EPFL:
 - Undergraduate courses
   - [**CS-233, Introduction to Machine Learning**](https://edu.epfl.ch/coursebook/fr/introduction-to-machine-learning-CS-233) by Mathieu Salzmann and Pascal Fua
 
-I am also a reviewor for machine learning conferences including ICLR, ICML, NeurIPS, CVPR and ICCV.
+I am also a reviewer for machine learning conferences including ICLR, ICML, NeurIPS, CVPR and ICCV.
 
 
 
