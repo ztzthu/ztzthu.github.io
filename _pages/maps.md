@@ -24,6 +24,8 @@ Trips include:
 - Crossing the Sahara by Public Transport
 - Travel to Northernmost Point of Europe by Public Transport
 
+Stack: QGIS, Overpass API
+
 <br/>
 
 <img src="/images/maps/iceland.jpg" alt="Bikepacking in Iceland 2022" style="width:100%;max-width:600px;margin-left:auto;margin-right: auto;"/>
@@ -36,9 +38,21 @@ Trips include:
 
 <img src="/images/maps/norway-2024.png" alt="Hiking in North Norway 2024" style="width:100%;max-width:450px;margin-left:auto;margin-right: auto;"/>
 
+<br />
+
 ## [**Maps for course project**](https://com-480-data-visualization.github.io/datavis-project-2022-datagang/src/)
 
 Map visualizes ! I love to add maps to course projects to help explain things. Example [here](https://com-480-data-visualization.github.io/datavis-project-2022-datagang/src/).
+
+Stack: D3.js
+
+<img src="/images/maps/course-proj.jpeg" style="width:100%;max-width:600px;margin-left:auto;margin-right: auto;"/>
+
+<br />
+
+## Misc
+
+I am an avid advocate for the open-source map [OpenStreetMaps](www.osm.org) and I contribute from time to time. I am also part of the [OpenStreetMaps China Team](https://github.com/orgs/OSMChina/people).
 
 
 
