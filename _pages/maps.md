@@ -4,10 +4,10 @@
     author_profile: true 
 ---
 
-I have created a lot of maps, jsut for fun.
+I have created a lot of maps, just for fun.
 
-## [**The Interactive When-To-Go-Where Map**](#)
-The Interactive When-To-Go-Where Map leverages [CTU TS monthly climate data](https://www.nature.com/articles/s41597-020-0453-3) to help you find the best place to travel for a given month, or find the best month to travel for a given place. Personal use only, with a plan to expand into a business.
+## [**The Interactive When-to-go-Where Map**](#)
+The Interactive When-to-go-Where Map leverages [CTU TS monthly climate data](https://www.nature.com/articles/s41597-020-0453-3) to help you find the best place to travel for a given month, or find the best month to travel for a given place. Personal use only, with a plan to expand into a business.
 
 Stack: Python, leaflet.js, D3.js, OpenLayers
 
@@ -25,8 +25,6 @@ Trips include:
 - Travel to Northernmost Point of Europe by Public Transport
 
 Stack: QGIS, Overpass API
-
-<br/>
 
 <img src="/images/maps/iceland.jpg" alt="Bikepacking in Iceland 2022" style="width:100%;max-width:600px;margin-left:auto;margin-right: auto;"/>
 
@@ -52,7 +50,7 @@ Stack: D3.js
 
 ## Misc
 
-I am an avid advocate for the open-source map [OpenStreetMaps](www.osm.org) and I contribute from time to time. I am also part of the [OpenStreetMaps China Team](https://github.com/orgs/OSMChina/people).
+I am an avid advocate for the open-source map [OpenStreetMap](www.osm.org) and I contribute from time to time. I am also part of the [OpenStreetMap China Team](https://github.com/orgs/OSMChina/people).
 
 
 
