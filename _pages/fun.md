@@ -16,4 +16,4 @@
   - In 2022 I travelled to the Northenmost point of Europe by public trasport all the way from Switzerland ([travelogue in Chinese](https://mp.weixin.qq.com/s/Kc2PqQMSfLcBp7u8LG3IQg)).
   - In 2023 I [pedalled around Iceland](https://ztzthu.github.io/maps/#iceland) in 14 days on my road bike, before venturing into an erupting volcano on the Reykjanes Penisula.
 
-- In the spare time I make maps as a hobby. Check out some of my maps [here](https://ztzthu.github.io/maps/) !
+- In the spare time I make maps as a hobby. Check out some of the cool maps [here](https://ztzthu.github.io/maps/) !

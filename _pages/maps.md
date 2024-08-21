@@ -4,12 +4,12 @@
     author_profile: true 
 ---
 
-I have created a lot of maps, just for fun.
+I create a lot of maps, just for fun.
 
-## [**The Interactive When-to-go-Where Map**](/when-to-go-where-map/)
-The Interactive When-to-go-Where Map leverages [the CTU TS monthly climate data](https://www.nature.com/articles/s41597-020-0453-3) to help you find the most comfortable place to travel for a given month, or find the most comfortable month to travel for a given place. 
+## [**The Interactive WHEN-to-go-WHERE Map**](/when-to-go-where-map/)
+The interactive WHEN-to-go-WHERE Map leverages [the CTU TS monthly climate data](https://www.nature.com/articles/s41597-020-0453-3) to help you find the most comfortable place to travel for a given month, or find the most comfortable month to travel for a given place. 
 
-Personal use at the moment, with a plan to expand into a business.
+Restricted to personal use at the moment, with a plan to expand into a business.
 
 Stack: Python, leaflet.js, D3.js, OpenLayers (in progess), PostGIS (in progess)
 
@@ -52,7 +52,7 @@ Stack: D3.js
 
 ## Misc
 
-I am an avid advocate for the open-source map [OpenStreetMap](https://www.osm.org) which I contribute from time to time. I also develop useful GIS tools as a part of the [OpenStreetMap China Team](https://github.com/orgs/OSMChina/people).
+I am an avid advocate for the open-source map [OpenStreetMap](https://www.osm.org) which I contribute from time to time. (In case you do not know, Strava, Alltrails, FATMAP - they all use OpenStreetMap data.) I also develop useful GIS tools as a part of the [OpenStreetMap China Team](https://github.com/orgs/OSMChina/people).
 
 
 
